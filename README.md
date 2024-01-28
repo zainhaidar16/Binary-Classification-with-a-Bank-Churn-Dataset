@@ -33,7 +33,7 @@ The dataset used in this project contains various customer attributes, such as a
 To run the analysis and model training:
 1. Ensure you have Python installed along with the required libraries.
 2. Clone this repository.
-3. Open and run the `churn_prediction.ipynb` notebook in a Jupyter environment.
+3. Open and run the `Customer Churn Prediction Using XGBoost.ipynb` notebook in a Jupyter environment.
 
 ## Author
 Zain Haidar
